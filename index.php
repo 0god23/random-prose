@@ -14,8 +14,7 @@ $rnd_line = $a[$rnd];
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>散文</title>
 	<meta http-equiv="Cache-Control" content="no-siteapp">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon" id="page_favionc">
-	<link rel="alternate icon" type="image/png" href="icon.png">
+	<link rel="icon" href="http://cdn.kingmaraud.top/logo30.png" type="image/x-icon">
 	<link rel="stylesheet" href="style.css">
 </head>
 
